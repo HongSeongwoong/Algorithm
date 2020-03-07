@@ -1,7 +1,7 @@
 Algorithm
 =========
 >This page is designed for technical interviews and preparation for competition.
-##● 공부 내용
+##1. 공부 내용
 - Sorting (plus searching / binary search)
 - Divide and Conquer
 - Dynamic Programming / Memoization
