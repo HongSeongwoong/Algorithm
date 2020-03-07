@@ -1,2 +1,2 @@
 # Algorithm
-알고리즘 공부 내용 정리
+## This page is designed for technical interviews and preparation for competition.
